@@ -1,0 +1,6 @@
+@Azure_Guided_Project_HostAddress = http://localhost:5004
+
+GET {{Azure_Guided_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
